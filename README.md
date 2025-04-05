@@ -1,5 +1,6 @@
 # Infinity Ground 项目介绍
 Infinity Ground，互动娱乐应用程序。融资 $200W。由 Animoca 提供支持。
+
 注册RF: https://www.infinityg.ai/voyage/?inviteCode=9CQ1FQ
 
 # Infinity_Bot
