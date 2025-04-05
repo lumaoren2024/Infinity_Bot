@@ -3,7 +3,7 @@ Infinity Ground，互动娱乐应用程序。融资 $200W。由 Animoca 提供�
 
 注册RF: https://www.infinityg.ai/voyage/?inviteCode=9CQ1FQ
 
-# Infinity_Bot
+# Infinity_Bot 使用教程
 ## 方法1: 修改proxy.txt和token.txt文件，使用脚本功能2生成配置
 ## 方法2: 修改config.json自行配置
 
